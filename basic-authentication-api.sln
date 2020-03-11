@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-authentication-api", "basic-authentication-api\basic-authentication-api.csproj", "{E818A5C5-1890-46AB-B8AC-500EF37DCCE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-authentication-api.Domain", "basic-authentication-api.Domain\basic-authentication-api.Domain.csproj", "{F134CB80-CAEB-4018-90B2-A601B2777494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E818A5C5-1890-46AB-B8AC-500EF37DCCE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E818A5C5-1890-46AB-B8AC-500EF37DCCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E818A5C5-1890-46AB-B8AC-500EF37DCCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E818A5C5-1890-46AB-B8AC-500EF37DCCE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F134CB80-CAEB-4018-90B2-A601B2777494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134CB80-CAEB-4018-90B2-A601B2777494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134CB80-CAEB-4018-90B2-A601B2777494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134CB80-CAEB-4018-90B2-A601B2777494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1557B4FF-A8F5-4A62-BF5F-298580D33B73}
+	EndGlobalSection
+EndGlobal
